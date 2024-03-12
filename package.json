@@ -1,11 +1,11 @@
 {
   "name": "parseandgen-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CSV parser and generator module for Node.js.",
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/panasyukmaksum/parseandgen-csv"
   },
   "author": "",
   "license": "MIT",
